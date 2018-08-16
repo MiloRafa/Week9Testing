@@ -6,13 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Qstn1LoginDemoSite" />
-        <module name="TestingWorkbook" />
+        <module name="TeaProject" />
+        <module name="Week9Testing" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Qstn1LoginDemoSite" target="1.5" />
-      <module name="TestingWorkbook" target="1.5" />
+      <module name="TeaProject" target="1.5" />
+      <module name="Week9Testing" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
